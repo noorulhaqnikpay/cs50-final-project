@@ -1,6 +1,8 @@
 # House Price Prediction
 
 This project uses **Linear Regression** to predict house prices based on the area of the house. It trains the model using a dataset and evaluates its performance using the R-squared metric.
+## video demo 
+https://youtu.be/wzDIi84WqyE?si=G9EhpZBtsjoYhGZV
 
 ## Features
 
